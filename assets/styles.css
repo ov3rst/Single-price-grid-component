@@ -27,7 +27,6 @@ html {
 }
 
 body {
-  overflow: hidden;
   background-color: var(--Ligth-Gray);
   display: flex;
   flex-direction: column;
